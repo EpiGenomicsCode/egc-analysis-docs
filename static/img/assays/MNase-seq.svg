@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-d71f2921-083d-4393-89ed-0bde97a19157" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <style>
+      .uuid-1ead49e4-c2e8-4bdc-9d8a-57caa3d2456e {
+        fill: #943200;
+      }
+
+      .uuid-0b43c144-a903-4ecb-a381-ab70e52387f2 {
+        fill: #bbbdbf;
+        stroke: #231f20;
+        stroke-width: .5px;
+      }
+
+      .uuid-0b43c144-a903-4ecb-a381-ab70e52387f2, .uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 14px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" d="M236.28,246.58h501.66c17.2,0,39.25,0,48.34,0"/>
+    <g>
+      <circle class="uuid-0b43c144-a903-4ecb-a381-ab70e52387f2" cx="366.82" cy="245.76" r="65.51"/>
+      <line class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" x1="303.09" y1="245.3" x2="414.31" y2="202.61"/>
+      <line class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" x1="319.4" y1="288.42" x2="430.62" y2="245.73"/>
+    </g>
+    <g>
+      <circle class="uuid-0b43c144-a903-4ecb-a381-ab70e52387f2" cx="685.51" cy="245.76" r="65.51"/>
+      <line class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" x1="621.79" y1="245.3" x2="733" y2="202.61"/>
+      <line class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" x1="638.09" y1="288.42" x2="749.31" y2="245.73"/>
+    </g>
+    <g>
+      <circle class="uuid-0b43c144-a903-4ecb-a381-ab70e52387f2" cx="526.16" cy="245.76" r="65.51"/>
+      <line class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" x1="462.44" y1="245.3" x2="573.66" y2="202.61"/>
+      <line class="uuid-0fddc22a-2e52-41e9-8f75-200d61d3eb91" x1="478.75" y1="288.42" x2="589.97" y2="245.73"/>
+    </g>
+  </g>
+  <path class="uuid-1ead49e4-c2e8-4bdc-9d8a-57caa3d2456e" d="M282.26,199.38c-7.61-11.55-17.95-21.55-30.74-28.93-43.94-25.37-100.12-10.31-125.48,33.62-25.37,43.94-10.31,100.12,33.62,125.48,43.94,25.37,100.12,10.31,125.48-33.62l-79.55-45.93,76.67-50.62Z"/>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-693380eb-473f-4fe3-992e-6c6a59feaba3" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <style>
+      .uuid-fe4baac4-b0d2-43c4-bb83-a88429c9ec9d {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .uuid-0a5ad641-f3fc-47f9-ade9-b3625cd10ad0 {
+        font-family: ArialMT, Arial;
+        font-size: 59.22px;
+        stroke: #000;
+        stroke-width: .1px;
+      }
+
+      .uuid-0a5ad641-f3fc-47f9-ade9-b3625cd10ad0, .uuid-19c35545-63d3-43f8-9657-9f472ba3fe05 {
+        fill: #ffc800;
+      }
+
+      .uuid-0a5ad641-f3fc-47f9-ade9-b3625cd10ad0, .uuid-243e079a-ec30-42a6-a9ae-c5c3b9df7641, .uuid-2c5f97db-ee85-482f-abfe-6defb6cbc8e9, .uuid-e9c8d1f1-6338-45d0-b809-68d33c5622a8 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-c2339239-8fb3-49ff-a832-b8020f8d82ba {
+        fill: lime;
+        opacity: .75;
+      }
+
+      .uuid-243e079a-ec30-42a6-a9ae-c5c3b9df7641 {
+        stroke: red;
+      }
+
+      .uuid-243e079a-ec30-42a6-a9ae-c5c3b9df7641, .uuid-2c5f97db-ee85-482f-abfe-6defb6cbc8e9, .uuid-e9c8d1f1-6338-45d0-b809-68d33c5622a8 {
+        fill: none;
+      }
+
+      .uuid-243e079a-ec30-42a6-a9ae-c5c3b9df7641, .uuid-e9c8d1f1-6338-45d0-b809-68d33c5622a8 {
+        stroke-linecap: round;
+        stroke-width: 14px;
+      }
+
+      .uuid-2c5f97db-ee85-482f-abfe-6defb6cbc8e9 {
+        stroke: #ffc800;
+        stroke-width: 5px;
+      }
+
+      .uuid-e9c8d1f1-6338-45d0-b809-68d33c5622a8 {
+        stroke: blue;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <line class="uuid-243e079a-ec30-42a6-a9ae-c5c3b9df7641" x1="108.12" y1="232.18" x2="628.12" y2="232.18"/>
+      <line class="uuid-e9c8d1f1-6338-45d0-b809-68d33c5622a8" x1="271.88" y1="185.92" x2="791.88" y2="185.92"/>
+    </g>
+    <path class="uuid-19c35545-63d3-43f8-9657-9f472ba3fe05" d="M288.51,161.71c-3.68-5.59-8.69-10.43-14.88-14-21.26-12.28-48.46-4.99-60.73,16.27-12.28,21.26-4.99,48.46,16.27,60.73,21.26,12.28,48.46,4.99,60.73-16.27l-38.5-22.23,37.11-24.5Z"/>
+    <ellipse class="uuid-c2339239-8fb3-49ff-a832-b8020f8d82ba" cx="450" cy="181.38" rx="149.57" ry="74.44"/>
+    <path class="uuid-19c35545-63d3-43f8-9657-9f472ba3fe05" d="M610.87,209.72c3.68-5.59,8.69-10.43,14.88-14,21.26-12.28,48.46-4.99,60.73,16.27,12.28,21.26,4.99,48.46-16.27,60.73-21.26,12.28-48.46,4.99-60.73-16.27l38.5-22.23-37.11-24.5Z"/>
+    <text class="uuid-fe4baac4-b0d2-43c4-bb83-a88429c9ec9d" transform="translate(406.02 195.96)"><tspan x="0" y="0">TF</tspan></text>
+  </g>
+  <text class="uuid-0a5ad641-f3fc-47f9-ade9-b3625cd10ad0" transform="translate(184.84 373.83)"><tspan x="0" y="0">λ exonuclease</tspan></text>
+  <line class="uuid-2c5f97db-ee85-482f-abfe-6defb6cbc8e9" x1="567.72" y1="346.43" x2="628.37" y2="273.6"/>
+</svg>

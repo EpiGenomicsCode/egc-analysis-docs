@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-532c9229-79ad-44eb-8633-1b318310db17" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <style>
+      .uuid-811ed4b9-22f4-4fd4-a0d6-203c2c727126, .uuid-2996dbe4-087a-4664-9d6f-f51c69daaad9, .uuid-7a0fa8de-d495-4fc0-9803-8ce873b097c7, .uuid-09d06099-0d06-410f-9260-49f1148850b5, .uuid-a76dca0c-e6d0-4303-b82b-172c5368de5a, .uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3, .uuid-814b092b-5c40-41a6-8294-cca2cb315a93, .uuid-260fe2a0-a1f9-4ac2-ad0d-4075c1ac9a81, .uuid-cdd8c907-564f-42a7-815e-c51da2058f47 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-811ed4b9-22f4-4fd4-a0d6-203c2c727126, .uuid-2996dbe4-087a-4664-9d6f-f51c69daaad9, .uuid-7a0fa8de-d495-4fc0-9803-8ce873b097c7, .uuid-260fe2a0-a1f9-4ac2-ad0d-4075c1ac9a81 {
+        font-family: ArialMT, Arial;
+        font-size: 43.1px;
+      }
+
+      .uuid-811ed4b9-22f4-4fd4-a0d6-203c2c727126, .uuid-09d06099-0d06-410f-9260-49f1148850b5 {
+        fill: #bbbdbf;
+        stroke: #231f20;
+        stroke-width: .5px;
+      }
+
+      .uuid-2996dbe4-087a-4664-9d6f-f51c69daaad9, .uuid-7a0fa8de-d495-4fc0-9803-8ce873b097c7, .uuid-a76dca0c-e6d0-4303-b82b-172c5368de5a, .uuid-260fe2a0-a1f9-4ac2-ad0d-4075c1ac9a81 {
+        stroke: #000;
+      }
+
+      .uuid-2996dbe4-087a-4664-9d6f-f51c69daaad9, .uuid-7a0fa8de-d495-4fc0-9803-8ce873b097c7, .uuid-260fe2a0-a1f9-4ac2-ad0d-4075c1ac9a81 {
+        stroke-width: .1px;
+      }
+
+      .uuid-2996dbe4-087a-4664-9d6f-f51c69daaad9, .uuid-3f84970d-c47c-4a52-9150-41a0d3fcc6ca {
+        fill: lime;
+      }
+
+      .uuid-7a0fa8de-d495-4fc0-9803-8ce873b097c7, .uuid-9703c5fd-78be-40c8-a4a6-8f3c37e5fe7a {
+        fill: #ffc800;
+      }
+
+      .uuid-3f84970d-c47c-4a52-9150-41a0d3fcc6ca {
+        opacity: .75;
+      }
+
+      .uuid-a76dca0c-e6d0-4303-b82b-172c5368de5a, .uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3, .uuid-814b092b-5c40-41a6-8294-cca2cb315a93, .uuid-cdd8c907-564f-42a7-815e-c51da2058f47 {
+        fill: none;
+      }
+
+      .uuid-a76dca0c-e6d0-4303-b82b-172c5368de5a, .uuid-cdd8c907-564f-42a7-815e-c51da2058f47 {
+        stroke-width: 5px;
+      }
+
+      .uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3 {
+        stroke: red;
+      }
+
+      .uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3, .uuid-814b092b-5c40-41a6-8294-cca2cb315a93 {
+        stroke-linecap: round;
+        stroke-width: 6px;
+      }
+
+      .uuid-814b092b-5c40-41a6-8294-cca2cb315a93 {
+        stroke: blue;
+      }
+
+      .uuid-cdd8c907-564f-42a7-815e-c51da2058f47 {
+        stroke: #ffc800;
+      }
+    </style>
+  </defs>
+  <line class="uuid-814b092b-5c40-41a6-8294-cca2cb315a93" x1="263.22" y1="268.75" x2="693.51" y2="268.75"/>
+  <text class="uuid-2996dbe4-087a-4664-9d6f-f51c69daaad9" transform="translate(291.4 430.44)"><tspan x="0" y="0">TF</tspan></text>
+  <line class="uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3" x1="173" y1="297.85" x2="658.81" y2="297.85"/>
+  <ellipse class="uuid-3f84970d-c47c-4a52-9150-41a0d3fcc6ca" cx="319.89" cy="273.41" rx="42.81" ry="88.08"/>
+  <g>
+    <circle class="uuid-09d06099-0d06-410f-9260-49f1148850b5" cx="543.83" cy="285.48" r="99.7"/>
+    <line class="uuid-814b092b-5c40-41a6-8294-cca2cb315a93" x1="446.5" y1="267.37" x2="580.72" y2="194.58"/>
+    <line class="uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3" x1="443.91" y1="302.07" x2="611.52" y2="210.77"/>
+    <line class="uuid-814b092b-5c40-41a6-8294-cca2cb315a93" x1="474.85" y1="357.88" x2="642.45" y2="266.58"/>
+    <line class="uuid-987c2010-4a9b-473b-8d05-bef32c50cfc3" x1="501.09" y1="376.6" x2="644.42" y2="298.76"/>
+  </g>
+  <path class="uuid-9703c5fd-78be-40c8-a4a6-8f3c37e5fe7a" d="M265.92,250.24c-2.72-4.13-6.42-7.71-11-10.35-15.72-9.08-35.83-3.69-44.91,12.03-9.08,15.72-3.69,35.83,12.03,44.91,15.72,9.08,35.83,3.69,44.91-12.03l-28.47-16.44,27.44-18.12Z"/>
+  <path class="uuid-9703c5fd-78be-40c8-a4a6-8f3c37e5fe7a" d="M653.96,283.64c2.72-4.13,6.42-7.71,11-10.35,15.72-9.08,35.83-3.69,44.91,12.03,9.08,15.72,3.69,35.83-12.03,44.91-15.72,9.08-35.83,3.69-44.91-12.03l28.47-16.44-27.44-18.12Z"/>
+  <path d="M681.25,206.24c-6.74-6.74-42.42,21.19-43.77,19.84-1.35-1.35,77.51-75.16,88.47-64.19,10.62,10.62-63.02,89.65-64.36,88.3-1.35-1.35,26.41-37.2,19.66-43.94Z"/>
+  <path d="M240.39,348.68c6.74,6.74,42.42-21.19,43.77-19.84,1.35,1.35-77.51,75.16-88.47,64.19-10.62-10.62,63.02-89.65,64.36-88.3,1.35,1.35-26.41,37.2-19.66,43.94Z"/>
+  <text class="uuid-7a0fa8de-d495-4fc0-9803-8ce873b097c7" transform="translate(289.18 153.49)"><tspan x="0" y="0">λ exonuclease</tspan></text>
+  <text class="uuid-260fe2a0-a1f9-4ac2-ad0d-4075c1ac9a81" transform="translate(419.27 98.55)"><tspan x="0" y="0">benzonase</tspan></text>
+  <line class="uuid-cdd8c907-564f-42a7-815e-c51da2058f47" x1="239.41" y1="242.95" x2="289.67" y2="168.28"/>
+  <line class="uuid-a76dca0c-e6d0-4303-b82b-172c5368de5a" x1="637.46" y1="104.78" x2="701.05" y2="174.52"/>
+  <text class="uuid-811ed4b9-22f4-4fd4-a0d6-203c2c727126" transform="translate(432.39 430.44)"><tspan x="0" y="0">nucleosome</tspan></text>
+</svg>
