@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <style>
+      .uuid-32582789-b2ce-4476-9739-d59aca20585f {
+        fill: #943200;
+      }
+
+      .uuid-c376f288-037f-4637-a8d8-5bc01d64507e {
+        fill: #bbbdbf;
+        stroke: #231f20;
+        stroke-width: .5px;
+      }
+
+      .uuid-c376f288-037f-4637-a8d8-5bc01d64507e, .uuid-8f1f266d-73de-4953-bff4-32766769a8e0 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-79b7909e-f0e6-409e-aa77-c8df9838005c {
+        fill: #1b1b1d;
+      }
+
+      .uuid-8f1f266d-73de-4953-bff4-32766769a8e0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 14px;
+      }
+    </style>
+  </defs>
+  <g id="uuid-ff516c14-4d6b-4726-a55d-a08b2cadd781" data-name="Layer 2">
+    <rect class="uuid-79b7909e-f0e6-409e-aa77-c8df9838005c" width="900" height="500"/>
+  </g>
+  <g id="uuid-91e27913-eaaf-4204-9933-b9c61b179ff1" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" d="M236.28,246.58h501.66c17.2,0,39.25,0,48.34,0"/>
+        <g>
+          <circle class="uuid-c376f288-037f-4637-a8d8-5bc01d64507e" cx="366.82" cy="245.76" r="65.51"/>
+          <line class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" x1="303.09" y1="245.3" x2="414.31" y2="202.61"/>
+          <line class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" x1="319.4" y1="288.42" x2="430.62" y2="245.73"/>
+        </g>
+        <g>
+          <circle class="uuid-c376f288-037f-4637-a8d8-5bc01d64507e" cx="685.51" cy="245.76" r="65.51"/>
+          <line class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" x1="621.79" y1="245.3" x2="733" y2="202.61"/>
+          <line class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" x1="638.09" y1="288.42" x2="749.31" y2="245.73"/>
+        </g>
+        <g>
+          <circle class="uuid-c376f288-037f-4637-a8d8-5bc01d64507e" cx="526.16" cy="245.76" r="65.51"/>
+          <line class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" x1="462.44" y1="245.3" x2="573.66" y2="202.61"/>
+          <line class="uuid-8f1f266d-73de-4953-bff4-32766769a8e0" x1="478.75" y1="288.42" x2="589.97" y2="245.73"/>
+        </g>
+      </g>
+      <path class="uuid-32582789-b2ce-4476-9739-d59aca20585f" d="M282.26,199.38c-7.61-11.55-17.95-21.55-30.74-28.93-43.94-25.37-100.12-10.31-125.48,33.62-25.37,43.94-10.31,100.12,33.62,125.48,43.94,25.37,100.12,10.31,125.48-33.62l-79.55-45.93,76.67-50.62Z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <style>
+      .uuid-c933f97f-27ce-4e0f-bcd7-78935ee0812c {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .uuid-35efd593-2eb5-44fc-a3c7-cb12f14f3574 {
+        font-family: ArialMT, Arial;
+        font-size: 59.22px;
+        stroke: #000;
+        stroke-width: .1px;
+      }
+
+      .uuid-35efd593-2eb5-44fc-a3c7-cb12f14f3574, .uuid-3bba6794-6bfc-4e4b-a907-25377806a691 {
+        fill: #ffc800;
+      }
+
+      .uuid-35efd593-2eb5-44fc-a3c7-cb12f14f3574, .uuid-8354d93b-3762-4c73-81c7-a34d1b585cb9, .uuid-8d2c45a7-8c30-44bf-8bbb-e6fd2bfc7a9c, .uuid-772b8af9-d983-4756-8ca7-a023e0732be0 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-dc9bd479-ed12-48e0-92be-8a13170c8269 {
+        fill: lime;
+        opacity: .75;
+      }
+
+      .uuid-b574391c-8c92-4120-a832-abac80ca2ebf {
+        fill: #1b1b1d;
+      }
+
+      .uuid-8354d93b-3762-4c73-81c7-a34d1b585cb9 {
+        stroke: red;
+      }
+
+      .uuid-8354d93b-3762-4c73-81c7-a34d1b585cb9, .uuid-8d2c45a7-8c30-44bf-8bbb-e6fd2bfc7a9c, .uuid-772b8af9-d983-4756-8ca7-a023e0732be0 {
+        fill: none;
+      }
+
+      .uuid-8354d93b-3762-4c73-81c7-a34d1b585cb9, .uuid-772b8af9-d983-4756-8ca7-a023e0732be0 {
+        stroke-linecap: round;
+        stroke-width: 14px;
+      }
+
+      .uuid-8d2c45a7-8c30-44bf-8bbb-e6fd2bfc7a9c {
+        stroke: #ffc800;
+        stroke-width: 5px;
+      }
+
+      .uuid-772b8af9-d983-4756-8ca7-a023e0732be0 {
+        stroke: blue;
+      }
+    </style>
+  </defs>
+  <g id="uuid-e18cdfaf-b410-454c-b7a2-a19566610bca" data-name="Layer 2">
+    <rect class="uuid-b574391c-8c92-4120-a832-abac80ca2ebf" width="900" height="500"/>
+  </g>
+  <g id="uuid-8cfd129a-3e4c-44e4-b7f0-fc4a992a58a0" data-name="Layer 1">
+    <g>
+      <g>
+        <g>
+          <line class="uuid-8354d93b-3762-4c73-81c7-a34d1b585cb9" x1="108.12" y1="232.18" x2="628.12" y2="232.18"/>
+          <line class="uuid-772b8af9-d983-4756-8ca7-a023e0732be0" x1="271.88" y1="185.92" x2="791.88" y2="185.92"/>
+        </g>
+        <path class="uuid-3bba6794-6bfc-4e4b-a907-25377806a691" d="M288.51,161.71c-3.68-5.59-8.69-10.43-14.88-14-21.26-12.28-48.46-4.99-60.73,16.27-12.28,21.26-4.99,48.46,16.27,60.73,21.26,12.28,48.46,4.99,60.73-16.27l-38.5-22.23,37.11-24.5Z"/>
+        <ellipse class="uuid-dc9bd479-ed12-48e0-92be-8a13170c8269" cx="450" cy="181.38" rx="149.57" ry="74.44"/>
+        <path class="uuid-3bba6794-6bfc-4e4b-a907-25377806a691" d="M610.87,209.72c3.68-5.59,8.69-10.43,14.88-14,21.26-12.28,48.46-4.99,60.73,16.27,12.28,21.26,4.99,48.46-16.27,60.73-21.26,12.28-48.46,4.99-60.73-16.27l38.5-22.23-37.11-24.5Z"/>
+        <text class="uuid-c933f97f-27ce-4e0f-bcd7-78935ee0812c" transform="translate(406.02 195.96)"><tspan x="0" y="0">TF</tspan></text>
+      </g>
+      <text class="uuid-35efd593-2eb5-44fc-a3c7-cb12f14f3574" transform="translate(184.84 373.83)"><tspan x="0" y="0">λ exonuclease</tspan></text>
+      <line class="uuid-8d2c45a7-8c30-44bf-8bbb-e6fd2bfc7a9c" x1="567.72" y1="346.43" x2="628.37" y2="273.6"/>
+    </g>
+  </g>
+</svg>

@@ -1,11 +1,13 @@
 import clsx from 'clsx';
+import { useColorMode } from '@docusaurus/theme-common';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 const FeatureList = [
   {
     title: 'Genomic features',
-    Svg: require('@site/static/img/assays/GenomicFeatures.svg').default,
+    defaultSvg: require('@site/static/img/assays/GenomicFeatures.svg').default,
+    darkSvg: require('@site/static/img/assays/GenomicFeatures_dark.svg').default,
     docPage: 'docs/GenomicFeatures',
     description: (
       <>
@@ -15,7 +17,8 @@ const FeatureList = [
   },
   {
     title: 'ChIP-exo',
-    Svg: require('@site/static/img/assays/ChIP-exo.svg').default,
+    defaultSvg: require('@site/static/img/assays/ChIP-exo.svg').default,
+    darkSvg: require('@site/static/img/assays/ChIP-exo_dark.svg').default,
     docPage: 'docs/ChIP-exo',
     description: (
       <>
@@ -25,7 +28,8 @@ const FeatureList = [
   },
   {
     title: 'ATAC-seq',
-    Svg: require('@site/static/img/assays/ATAC-seq.svg').default,
+    defaultSvg: require('@site/static/img/assays/ATAC-seq.svg').default,
+    darkSvg: require('@site/static/img/assays/ATAC-seq_dark.svg').default,
     docPage: 'docs/ATAC-seq',
     description: (
       <>
@@ -35,7 +39,8 @@ const FeatureList = [
   },
   {
     title: 'CoPRO',
-    Svg: require('@site/static/img/assays/CoPRO.svg').default,
+    defaultSvg: require('@site/static/img/assays/CoPRO.svg').default,
+    darkSvg: require('@site/static/img/assays/CoPRO_dark.svg').default,
     docPage: 'docs/CoPRO',
     description: (
       <>
@@ -45,7 +50,8 @@ const FeatureList = [
   },
   {
     title: 'Benzonase ChIP-exo',
-    Svg: require('@site/static/img/assays/Benzonase-ChIP-exo.svg').default,
+    defaultSvg: require('@site/static/img/assays/Benzonase-ChIP-exo.svg').default,
+    darkSvg: require('@site/static/img/assays/Benzonase-ChIP-exo_dark.svg').default,
     docPage: 'docs/ChIP-exo',
     description: (
       <>
@@ -55,7 +61,8 @@ const FeatureList = [
   },
   {
     title: 'ChIP-seq',
-    Svg: require('@site/static/img/assays/ChIP-seq.svg').default,
+    defaultSvg: require('@site/static/img/assays/ChIP-seq.svg').default,
+    darkSvg: require('@site/static/img/assays/ChIP-seq_dark.svg').default,
     docPage: 'docs/ChIP-seq',
     description: (
       <>
@@ -65,7 +72,8 @@ const FeatureList = [
   },
   {
     title: 'MNase-seq',
-    Svg: require('@site/static/img/assays/MNase-seq.svg').default,
+    defaultSvg: require('@site/static/img/assays/MNase-seq.svg').default,
+    darkSvg: require('@site/static/img/assays/MNase-seq_dark.svg').default,
     docPage: 'docs/MNase-seq',
     description: (
       <>
@@ -95,7 +103,10 @@ const FeatureList = [
   // },
 ];
 
-function Feature({Svg, title, docPage, description}) {
+function Feature({defaultSvg, title, docPage, description, darkSvg}) {
+  const { colorMode } = useColorMode();
+  const Svg = colorMode === 'dark' && darkSvg ? darkSvg : defaultSvg;
+
   return (
     <div className={clsx('col col--4')}>
       <a href={ docPage }>

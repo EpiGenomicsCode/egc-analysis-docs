@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500">
+  <defs>
+    <style>
+      .uuid-4402e94a-3d1a-478b-b6bd-f48a14a17606, .uuid-dd9b12f8-4017-4c66-af83-b24e22f8aac9, .uuid-20cfa44b-6950-4915-9ffd-f9cbfdf58503, .uuid-4369887a-378b-423d-86fe-f3734aeab92a, .uuid-163e8d46-dacd-4e90-aa27-5d7b34f3e0f3, .uuid-a828c197-f891-4420-b34f-0236e359b0e7, .uuid-057829fb-6ce6-4b84-8123-c0d717841ced, .uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb, .uuid-eb84770f-4b30-486b-be6e-1d9cb7fcd265 {
+        stroke-miterlimit: 10;
+      }
+
+      .uuid-4402e94a-3d1a-478b-b6bd-f48a14a17606, .uuid-20cfa44b-6950-4915-9ffd-f9cbfdf58503, .uuid-4369887a-378b-423d-86fe-f3734aeab92a, .uuid-163e8d46-dacd-4e90-aa27-5d7b34f3e0f3 {
+        font-family: ArialMT, Arial;
+        font-size: 43.1px;
+      }
+
+      .uuid-4402e94a-3d1a-478b-b6bd-f48a14a17606, .uuid-a828c197-f891-4420-b34f-0236e359b0e7 {
+        fill: #bbbdbf;
+        stroke: #231f20;
+        stroke-width: .5px;
+      }
+
+      .uuid-dd9b12f8-4017-4c66-af83-b24e22f8aac9 {
+        stroke: #fff;
+      }
+
+      .uuid-dd9b12f8-4017-4c66-af83-b24e22f8aac9, .uuid-057829fb-6ce6-4b84-8123-c0d717841ced, .uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb, .uuid-eb84770f-4b30-486b-be6e-1d9cb7fcd265 {
+        fill: none;
+      }
+
+      .uuid-dd9b12f8-4017-4c66-af83-b24e22f8aac9, .uuid-eb84770f-4b30-486b-be6e-1d9cb7fcd265 {
+        stroke-width: 5px;
+      }
+
+      .uuid-20cfa44b-6950-4915-9ffd-f9cbfdf58503, .uuid-4369887a-378b-423d-86fe-f3734aeab92a, .uuid-163e8d46-dacd-4e90-aa27-5d7b34f3e0f3 {
+        stroke: #000;
+        stroke-width: .1px;
+      }
+
+      .uuid-20cfa44b-6950-4915-9ffd-f9cbfdf58503, .uuid-a0fb12f9-1d8a-44d6-8228-376a7a833a70 {
+        fill: #fff;
+      }
+
+      .uuid-4369887a-378b-423d-86fe-f3734aeab92a, .uuid-d74265b5-212f-4888-b004-52c6b8236d51 {
+        fill: lime;
+      }
+
+      .uuid-163e8d46-dacd-4e90-aa27-5d7b34f3e0f3, .uuid-3c182aab-6660-4f12-8148-7e6e83f88137 {
+        fill: #ffc800;
+      }
+
+      .uuid-d74265b5-212f-4888-b004-52c6b8236d51 {
+        opacity: .75;
+      }
+
+      .uuid-3fb56e52-b7f0-48ca-b3a8-38c527bc27db {
+        fill: #1b1b1d;
+      }
+
+      .uuid-057829fb-6ce6-4b84-8123-c0d717841ced {
+        stroke: red;
+      }
+
+      .uuid-057829fb-6ce6-4b84-8123-c0d717841ced, .uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb {
+        stroke-linecap: round;
+        stroke-width: 6px;
+      }
+
+      .uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb {
+        stroke: blue;
+      }
+
+      .uuid-eb84770f-4b30-486b-be6e-1d9cb7fcd265 {
+        stroke: #ffc800;
+      }
+    </style>
+  </defs>
+  <g id="uuid-af0dcd62-f373-40c9-821d-451b2b6bb2f2" data-name="Layer 2">
+    <rect class="uuid-3fb56e52-b7f0-48ca-b3a8-38c527bc27db" width="900" height="500"/>
+  </g>
+  <g id="uuid-0af6e790-1a94-4174-984b-1024c0111db3" data-name="Layer 1">
+    <g>
+      <line class="uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb" x1="263.22" y1="268.75" x2="693.51" y2="268.75"/>
+      <text class="uuid-4369887a-378b-423d-86fe-f3734aeab92a" transform="translate(291.4 430.44)"><tspan x="0" y="0">TF</tspan></text>
+      <line class="uuid-057829fb-6ce6-4b84-8123-c0d717841ced" x1="173" y1="297.85" x2="658.81" y2="297.85"/>
+      <ellipse class="uuid-d74265b5-212f-4888-b004-52c6b8236d51" cx="319.89" cy="273.41" rx="42.81" ry="88.08"/>
+      <g>
+        <circle class="uuid-a828c197-f891-4420-b34f-0236e359b0e7" cx="543.83" cy="285.48" r="99.7"/>
+        <line class="uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb" x1="446.5" y1="267.37" x2="580.72" y2="194.58"/>
+        <line class="uuid-057829fb-6ce6-4b84-8123-c0d717841ced" x1="443.91" y1="302.07" x2="611.52" y2="210.77"/>
+        <line class="uuid-21ee6284-6001-4a0c-8fb7-9f22cadab3cb" x1="474.85" y1="357.88" x2="642.45" y2="266.58"/>
+        <line class="uuid-057829fb-6ce6-4b84-8123-c0d717841ced" x1="501.09" y1="376.6" x2="644.42" y2="298.76"/>
+      </g>
+      <path class="uuid-3c182aab-6660-4f12-8148-7e6e83f88137" d="M265.92,250.24c-2.72-4.13-6.42-7.71-11-10.35-15.72-9.08-35.83-3.69-44.91,12.03-9.08,15.72-3.69,35.83,12.03,44.91,15.72,9.08,35.83,3.69,44.91-12.03l-28.47-16.44,27.44-18.12Z"/>
+      <path class="uuid-3c182aab-6660-4f12-8148-7e6e83f88137" d="M653.96,283.64c2.72-4.13,6.42-7.71,11-10.35,15.72-9.08,35.83-3.69,44.91,12.03,9.08,15.72,3.69,35.83-12.03,44.91-15.72,9.08-35.83,3.69-44.91-12.03l28.47-16.44-27.44-18.12Z"/>
+      <path class="uuid-a0fb12f9-1d8a-44d6-8228-376a7a833a70" d="M681.25,206.24c-6.74-6.74-42.42,21.19-43.77,19.84-1.35-1.35,77.51-75.16,88.47-64.19,10.62,10.62-63.02,89.65-64.36,88.3-1.35-1.35,26.41-37.2,19.66-43.94Z"/>
+      <path class="uuid-a0fb12f9-1d8a-44d6-8228-376a7a833a70" d="M240.39,348.68c6.74,6.74,42.42-21.19,43.77-19.84,1.35,1.35-77.51,75.16-88.47,64.19-10.62-10.62,63.02-89.65,64.36-88.3,1.35,1.35-26.41,37.2-19.66,43.94Z"/>
+      <text class="uuid-163e8d46-dacd-4e90-aa27-5d7b34f3e0f3" transform="translate(289.18 153.49)"><tspan x="0" y="0">λ exonuclease</tspan></text>
+      <text class="uuid-20cfa44b-6950-4915-9ffd-f9cbfdf58503" transform="translate(419.27 98.55)"><tspan x="0" y="0">benzonase</tspan></text>
+      <line class="uuid-eb84770f-4b30-486b-be6e-1d9cb7fcd265" x1="239.41" y1="242.95" x2="289.67" y2="168.28"/>
+      <line class="uuid-dd9b12f8-4017-4c66-af83-b24e22f8aac9" x1="637.46" y1="104.78" x2="701.05" y2="174.52"/>
+      <text class="uuid-4402e94a-3d1a-478b-b6bd-f48a14a17606" transform="translate(432.39 430.44)"><tspan x="0" y="0">nucleosome</tspan></text>
+    </g>
+  </g>
+</svg>
