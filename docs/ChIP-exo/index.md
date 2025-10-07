@@ -45,4 +45,4 @@ In other instances, you may need as much signal as you can get and you could con
 
 
 [glossary]: /docs/glossary
-[pileup]: ChIP-exo/pileup
+[pileup]: pileup
