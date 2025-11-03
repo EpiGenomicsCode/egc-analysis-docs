@@ -26,7 +26,7 @@ const config = {
   url: 'https://EpigenomicsCode.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'egc-analysis-docs',
   onBrokenMarkdownLinks: 'warn',
 
   // GitHub pages deployment config.
